@@ -1,0 +1,13 @@
+---
+name: VanillaEnchantments
+version: 4.0.0
+api:
+  - 4.0.0
+author: TheAz928
+authors:
+  - YTBJero
+website: "https://github.com/TheAz928/VanillaEnchantments"
+main: vanilla\Core
+description: "Vanilla enchantments implemention for pmmp"
+
+...
